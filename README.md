@@ -4,4 +4,4 @@ Quick script I made for a friend. Tracks number of climbers at 3 different local
 # Setup
 1) Navigate to project folder
 2) Run this command: ./bin/setup.sh
-Leave running in terminal
+3) Leave running in terminal to continue adding data
